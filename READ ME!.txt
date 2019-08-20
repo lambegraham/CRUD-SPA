@@ -1,0 +1,5 @@
+Made by Graham Lambe, Student number 16432016.
+
+Access ".../assignment3final/combined.php/" to use SPA application.
+"combined.php" is the main websile file. "database.php" is simply for fetching the database.
+Using bootstrap for styling/css. Everything fully working AFAIK. 
